@@ -52,3 +52,6 @@ _card_
 *     './Card'  
 _profile_  
 *     './ProfileMain'  
+
+## Задание 2 Ссылка на проект 
+https://drive.google.com/file/d/1-pGaGa0gOo8f_E_JbwqXZsCRxYAyz91p/view?usp=sharing
